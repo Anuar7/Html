@@ -1,0 +1,118 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D27003272B699CF200954BB7 /* Kh1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Kh1.html; sourceTree = "<group>"; };
+		D27003282B699D3F00954BB7 /* you_can_learn_text_tags.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = you_can_learn_text_tags.html; sourceTree = "<group>"; };
+		D27003292B699D7B00954BB7 /* Wishlist.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Wishlist.html; sourceTree = "<group>"; };
+		D270032B2B699E1300954BB7 /* a_picture_perfect_trip.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = a_picture_perfect_trip.html; sourceTree = "<group>"; };
+		D270032C2B699E5500954BB7 /* colorful_creature.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = colorful_creature.html; sourceTree = "<group>"; };
+		D270032D2B699E9500954BB7 /* seasonal_ids.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = seasonal_ids.html; sourceTree = "<group>"; };
+		D270032E2B699EC800954BB7 /* apples_and_bananas_classes.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = apples_and_bananas_classes.html; sourceTree = "<group>"; };
+		D270032F2B699F4C00954BB7 /* links_for_learning.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = links_for_learning.html; sourceTree = "<group>"; };
+		D27003302B699F8D00954BB7 /* jump_around.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = jump_around.html; sourceTree = "<group>"; };
+		D27003312B699FF500954BB7 /* the_dinner_table.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = the_dinner_table.html; sourceTree = "<group>"; };
+		D27003322B69A03600954BB7 /* fancy_font_families.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = fancy_font_families.html; sourceTree = "<group>"; };
+		D27003332B69A06700954BB7 /* great_big_font_sizes.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = great_big_font_sizes.html; sourceTree = "<group>"; };
+		D27003342B69A0A000954BB7 /* famous_font_formats.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = famous_font_formats.html; sourceTree = "<group>"; };
+		D27003352B69A0DB00954BB7 /* group_the_groupers.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = group_the_groupers.html; sourceTree = "<group>"; };
+		D27003372B69A14A00954BB7 /* the_overflowing_ocean.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = the_overflowing_ocean.html; sourceTree = "<group>"; };
+		D27003382B69A17A00954BB7 /* the_boxer_model.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = the_boxer_model.html; sourceTree = "<group>"; };
+		D27003392B69A1A700954BB7 /* position_planet.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = position_planet.html; sourceTree = "<group>"; };
+		D270033A2B69A1F100954BB7 /* floating_clouds.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = floating_clouds.html; sourceTree = "<group>"; };
+		D270033B2B69A22A00954BB7 /* a_classy_gallery.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = a_classy_gallery.html; sourceTree = "<group>"; };
+		D270033C2B69A25700954BB7 /* classes_of_elements.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = classes_of_elements.html; sourceTree = "<group>"; };
+		D270033D2B69A28C00954BB7 /* descendants_of_khan.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = descendants_of_khan.html; sourceTree = "<group>"; };
+		D270033E2B69A2BC00954BB7 /* grouped_animals.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = grouped_animals.html; sourceTree = "<group>"; };
+		D270033F2B69A66E00954BB7 /* recipe_book.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = recipe_book.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D27003202B699C8600954BB7 = {
+			isa = PBXGroup;
+			children = (
+				D27003272B699CF200954BB7 /* Kh1.html */,
+				D27003282B699D3F00954BB7 /* you_can_learn_text_tags.html */,
+				D27003292B699D7B00954BB7 /* Wishlist.html */,
+				D270032B2B699E1300954BB7 /* a_picture_perfect_trip.html */,
+				D270032C2B699E5500954BB7 /* colorful_creature.html */,
+				D270032D2B699E9500954BB7 /* seasonal_ids.html */,
+				D270032E2B699EC800954BB7 /* apples_and_bananas_classes.html */,
+				D270032F2B699F4C00954BB7 /* links_for_learning.html */,
+				D27003302B699F8D00954BB7 /* jump_around.html */,
+				D27003312B699FF500954BB7 /* the_dinner_table.html */,
+				D27003322B69A03600954BB7 /* fancy_font_families.html */,
+				D27003332B69A06700954BB7 /* great_big_font_sizes.html */,
+				D27003342B69A0A000954BB7 /* famous_font_formats.html */,
+				D27003352B69A0DB00954BB7 /* group_the_groupers.html */,
+				D27003372B69A14A00954BB7 /* the_overflowing_ocean.html */,
+				D27003382B69A17A00954BB7 /* the_boxer_model.html */,
+				D27003392B69A1A700954BB7 /* position_planet.html */,
+				D270033A2B69A1F100954BB7 /* floating_clouds.html */,
+				D270033B2B69A22A00954BB7 /* a_classy_gallery.html */,
+				D270033C2B69A25700954BB7 /* classes_of_elements.html */,
+				D270033D2B69A28C00954BB7 /* descendants_of_khan.html */,
+				D270033E2B69A2BC00954BB7 /* grouped_animals.html */,
+				D270033F2B69A66E00954BB7 /* recipe_book.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D27003212B699C8600954BB7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = D27003242B699C8600954BB7 /* Build configuration list for PBXProject "Html" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D27003202B699C8600954BB7;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D27003252B699C8600954BB7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D27003262B699C8600954BB7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D27003242B699C8600954BB7 /* Build configuration list for PBXProject "Html" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D27003252B699C8600954BB7 /* Debug */,
+				D27003262B699C8600954BB7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D27003212B699C8600954BB7 /* Project object */;
+}
